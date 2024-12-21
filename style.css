@@ -78,6 +78,12 @@ font-weight: 700;
 margin-bottom: 20px;
 }
 
+.primary .experience{
+    font-size: 50px;
+    font-weight: 700;
+    color: var(--clr-primary);
+}
+
 .secondary{
     font-size: 44px;
 font-weight: 700;
